@@ -8,7 +8,7 @@ WS_HOME='./' ; export WS_HOME
 
 where ./ is the directory containing the global file !
 
-I did not write many of these scripts but have them listed here together for ease of use when testing the SCAMPP framework --
+I did not write most of these scripts but have them listed here together for ease of use when testing the SCAMPP framework --
 
 Proper attributions are below:
  nw_prune 
@@ -30,6 +30,10 @@ Proper attributions are below:
     
  convertFasta2Phylip.sh  is from the scripts packaged with RAxML and are avaiable from:
     https://github.com/stamatak/standard-RAxML/tree/master/usefulScripts
+    
+ guppy  is from the pplacer github: 
+    https://github.com/matsen/pplacer
+    
     
 Dependencies for backbone.py and select_queries.py:
   TreeSwift: https://github.com/niemasd/TreeSwift

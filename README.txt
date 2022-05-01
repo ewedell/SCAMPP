@@ -8,8 +8,7 @@ WS_HOME='./' ; export WS_HOME
 
 where ./ is the directory containing the global file !
 
-I did not write many of these scripts but have them listed here together for
-ease of use when testing the SCAMPP framework --
+I did not write many of these scripts but have them listed here together for ease of use when testing the SCAMPP framework --
 
 Proper attributions are below:
  nw_prune 

@@ -28,5 +28,8 @@ Proper attributions are below:
     https://datadryad.org/stash/dataset/doi:10.5061/dryad.78nf7dq.
     The other measure scripts are modified from this. 
     
+ convertFasta2Phylip.sh  is from the scripts packaged with RAxML and are avaiable from:
+    https://github.com/stamatak/standard-RAxML/tree/master/usefulScripts
+    
 Dependencies for backbone.py and select_queries.py:
   TreeSwift: https://github.com/niemasd/TreeSwift
